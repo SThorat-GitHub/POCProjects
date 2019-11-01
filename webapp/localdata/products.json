@@ -1,0 +1,22 @@
+{
+	"products":[
+		{
+			"productName" : "iPhone X"
+		},
+			{
+			"productName" : "iPAD"
+		},
+			{
+			"productName" : "Galaxy X"
+		},
+			{
+			"productName" : "iPhone 8"
+		},
+			{
+			"productName" : "Apple Watch Series 1"
+		},
+		{		
+			"productName" : "Apple Watch Series 2"
+		}
+	]
+}
